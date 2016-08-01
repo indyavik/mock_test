@@ -10,6 +10,7 @@ class NameGetter(object):
 		self.get_name()
 		self.greet()
 
+""" different comment on local """ 
 
 if __name__ == '__main__':
 	m = NameGetter()
